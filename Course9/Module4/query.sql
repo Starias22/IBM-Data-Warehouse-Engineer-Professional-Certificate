@@ -1,0 +1,1 @@
+SELECT rowid, product_id, customer_id, price, quantity*price AS total_price FROM sales_data;
