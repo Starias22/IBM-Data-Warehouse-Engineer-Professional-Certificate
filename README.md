@@ -9,6 +9,26 @@
 
 [Verify on Coursera](https://coursera.org/verify/professional-cert/XDLRTSQS4ZBP)
 
+## Key Skills Acquired
+- Data Engineering Concepts and Architecture
+- Relational Database Design and Administration
+- SQL for Database Querying
+- Linux Commands and Shell Scripting
+- ETL Pipelines and Automation with Airflow and Kafka
+- Data Warehouse Design and Optimization
+- Business Intelligence Dashboard Development with IBM Cognos and Google Looker
+
+
+## Tools and Technologies
+- IBM Db2
+- PostgreSQL
+- Apache Airflow
+- Apache Kafka
+- IBM Cognos Analytics
+- Google Looker
+- Linux Shell
+
+
 ## Course Notes
 ### Course 1: Introduction to Data Engineering
 
