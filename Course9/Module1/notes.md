@@ -10,7 +10,7 @@
 ### Assignment Overview
 ### OLTP Database Requirements and Design
 
-![alt text](image.png)
+![alt text](./resources/requirements_design.png)
 
 
 ### Hands-on Lab: OLTP Database
@@ -24,12 +24,6 @@
 ![alt text](./resources/salesrows.png)
 
 ![alt text](./resources/listindexes.png)
-
-
-![alt text](image-2.png)
-
-![alt text](image-1.png)
-
 
 ![alt text](./resources/exportdata.png)
 
