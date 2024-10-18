@@ -54,7 +54,6 @@
 ![alt text](./resources/softcartDimItem.png)
 ![alt text](./resources/softcartDimCountry.png)
 
-![alt text](image-3.png)
 
 ![alt text](./resources/softcartFactSales.png)
 
@@ -75,24 +74,9 @@
 
 ![alt text](./resources/FactSales.png)
 
-
-![alt text](image-3.png)
-
-![alt text](image-7.png)
-
-
 ![alt text](./resources/groupingsets.png)
 
-![alt text](image-8.png)
-
-![alt text](image-9.png)
-
 ![alt text](./resources/rollup.png)
-
-
-![alt text](image-10.png)
-
-![alt text](image-11.png)
 
 ![alt text](./resources/cube.png)
 
